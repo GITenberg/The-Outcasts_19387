@@ -1,0 +1,37 @@
+_repo: The-Outcasts_19387
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Heming, Arthur
+    alias: Heming, Arthur Henry Howard
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '8067'
+    url: http://www.gutenberg.org/2009/agents/8067
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fraser, William Alexander
+    alias: Fraser, W. A. (William Alexander)
+    birthdate: 1859
+    deathdate: 1933
+    gutenberg_agent_id: '2970'
+    url: http://www.gutenberg.org/2009/agents/2970
+description: The story of A'Tim the Outcast who was half Wolf, half Huskie Dog. He
+  was an Outcast because neither side of the house of his ancestry recognized him.
+  He was an outcast vagabond on the southern prairie, close to the Montana borderland.
+gutenberg_issued: '2006-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+title: The Outcasts
+url: http://www.gutenberg.org/ebooks/19387
